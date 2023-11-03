@@ -8,3 +8,5 @@ create a npm folder in desired path
 npx create-react-app frontend
 5. install axios
 npm install react-axios
+
+6. pip freeze > requirements.txt to send all environment package to the requirements.txt file
