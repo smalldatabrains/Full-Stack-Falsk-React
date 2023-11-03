@@ -4,8 +4,11 @@ node --version
 npm --version
 3. if error ENOENT: no such file or directory, lstat
 create a npm folder in desired path
-4. create your project by running
-npx create-react-app frontend
+4. npm create vite@latest frontend
+4. cd frontend
+4. npm install
+4. npm run dev
+5. add react developers tools extensio to chrome
 5. install axios
 npm install react-axios
 
